@@ -1,0 +1,19 @@
+// POST Base URL: "https://www.smsgatewayhub.com/api/mt/SendSMS?"
+{
+    "Account": {
+        "APIkey": "",
+        "SenderId": "",
+        "Channel": "2",
+        "DCS": "0",
+        "SchedTime": null,
+        "GroupId": null,
+        "EntityId": ""
+    },
+    "Messages": [
+        {
+            "Text": "",
+            "DLTTemplateId": "",
+            "Number": ""
+        }
+    ]
+}
